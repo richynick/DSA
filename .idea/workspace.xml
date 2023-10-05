@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="63a647ba-5c20-4f59-bc5f-83e29722e989" name="Changes" comment="" />
+    <list default="true" id="63a647ba-5c20-4f59-bc5f-83e29722e989" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/LinkedList/Questions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedList/SinglyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedList/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,7 +79,7 @@
       <workItem from="1694071932298" duration="2597000" />
       <workItem from="1695289635554" duration="2543000" />
       <workItem from="1695499459051" duration="3963000" />
-      <workItem from="1696492087714" duration="1176000" />
+      <workItem from="1696492087714" duration="2998000" />
     </task>
     <servers />
   </component>
